@@ -89,8 +89,7 @@ The project explores how production workflows can be made more efficient without
 - Procedural pipeline development
 - USD / Solaris workflows
 
-🔗 [View Project](#)
-
+🔗 It is a WIP
 
 ### 777 Charlie — Storyboard & Stop-Motion
 
@@ -106,7 +105,7 @@ This project reflects my interest in storytelling that moves between **illustrat
 - Production planning
 - Character & scene development
 
-🔗 [View Project](#)
+🔗 [Watch the Storyboard Project](https://www.youtube.com/watch?v=lUBqkzbIAVY)
 
 
 ### Made in Bengaluru — Art Department & Visual Development
@@ -123,7 +122,7 @@ The experience brought together my interests in **production design, visual rese
 - Set design
 - Creative collaboration
 
-🔗 [View Project](#)
+🔗 [Watch the Project](https://www.youtube.com/watch?v=G7C7oQG5Qts)
 
 
 ## What I Do 🎯
