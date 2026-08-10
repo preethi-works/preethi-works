@@ -1,7 +1,5 @@
 # Hi there, I'm Preethi (Bhat) Parpakaje! 👋
 
----
-
 ![Preethi Parpakaje](./assets:preethi-profile.png)
 
 I'm an **Interdisciplinary Artist, Creative Technologist, and Graphics / VFX Generalist** who enjoys working at the intersection of art, technology, design, and storytelling.
@@ -10,7 +8,6 @@ I move between physical and digital mediums — from carving wood and stone to b
 
 > **"Learn any of the four skills; you can create the fifth one."**
 
----
 
 ## About Me 🚀
 
