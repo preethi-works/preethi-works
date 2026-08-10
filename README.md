@@ -1,4 +1,4 @@
-# Hi there, I'm Preethi (Bhat) Parpakaje! 👋
+# Hi there, I'm Preethi (Bhat) Parpakaje!
 
 ![Preethi Parpakaje](./assets:preethi-profile.png)
 
