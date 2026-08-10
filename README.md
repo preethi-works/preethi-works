@@ -2,7 +2,7 @@
 
 ---
 
-![Preethi Parpakaje](./assets/preethi-profile.png)
+![Preethi Parpakaje](./assets:preethi-profile.png)
 
 I'm an **Interdisciplinary Artist, Creative Technologist, and Graphics / VFX Generalist** who enjoys working at the intersection of art, technology, design, and storytelling.
 
