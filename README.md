@@ -24,7 +24,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 - 📫 How to reach me: **preethibhatp@gmail.com**
 - ⚡ Fun fact: **I believe learning four different skills can lead you to a fifth skill that belongs entirely to you.**
 
----
 
 ## My Skills 🧠
 
@@ -38,7 +37,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 
 **Illustration • Graphic Design • Branding • UI Design • Storyboarding • Concept Development**
 
----
 
 ### 🧊 3D & VFX
 
@@ -48,7 +46,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 
 **Procedural 3D • VFX • Look Development • Digital Sculpting • 3D Workflows**
 
----
 
 ### 🎬 Motion & Post-Production
 
@@ -57,7 +54,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 
 **Motion Graphics • Video Editing • Animation • Compositing • Stop-Motion**
 
----
 
 ### 🧑‍💻 Creative Technology
 
@@ -66,7 +62,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 
 **Creative Coding • Houdini Tool Development • Procedural Workflows • UI Tools • Pipeline Development**
 
----
 
 ### 🖥️ Web & UI
 
@@ -74,7 +69,6 @@ I enjoy tackling problems from multiple perspectives and bringing together seemi
 
 **UI Design • Wireframing • UX Research • Creative Interfaces**
 
----
 
 ## Featured Projects 💻
 
@@ -97,7 +91,6 @@ The project explores how production workflows can be made more efficient without
 
 🔗 [View Project](#)
 
----
 
 ### 777 Charlie — Storyboard & Stop-Motion
 
@@ -115,7 +108,6 @@ This project reflects my interest in storytelling that moves between **illustrat
 
 🔗 [View Project](#)
 
----
 
 ### Made in Bengaluru — Art Department & Visual Development
 
@@ -133,7 +125,6 @@ The experience brought together my interests in **production design, visual rese
 
 🔗 [View Project](#)
 
----
 
 ## What I Do 🎯
 
@@ -171,7 +162,6 @@ The experience brought together my interests in **production design, visual rese
 - Visual storytelling
 - Social media graphics
 
----
 
 ## My Approach 🧩
 
@@ -189,7 +179,6 @@ And programming can teach me to **build tools around creative problems**.
 
 The interesting work happens where these disciplines overlap.
 
----
 
 ## Experience 💼
 
@@ -221,7 +210,6 @@ The interesting work happens where these disciplines overlap.
 *Spring Designs*  
 `2019`
 
----
 
 ## Education 🎓
 
@@ -233,7 +221,6 @@ Alva's Education Foundation
 SSPU College  
 `2013 – 2015`
 
----
 
 ## Professional Highlights ✨
 
@@ -244,7 +231,6 @@ SSPU College
 - 🧑‍🏫 Teaching experience in software, animation and design
 - 🚀 Interested in building creative tools and improving digital production workflows
 
----
 
 ## Get in Touch 📬
 
@@ -253,7 +239,6 @@ SSPU College
 - 📸 **Instagram:** [@preethibhat_digiartist](https://www.instagram.com/preethibhat_digiartist/)
 - 📧 **Email:** preethibhatp@gmail.com
 
----
 
 ### "Learn any of the four skills; you can create the fifth one."
 
