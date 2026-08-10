@@ -1,6 +1,6 @@
 # Hi there, I'm Preethi (Bhat) Parpakaje! 👋
 
-(![PP P 2copy.png](:/f93bd7f09aa04899a5967a11f5a0d7ea))
+![PP P 2copy.png](:/f93bd7f09aa04899a5967a11f5a0d7ea)
 
 I'm an **Interdisciplinary Artist, Creative Technologist, and Graphics / VFX Generalist** who enjoys working at the intersection of art, technology, design, and storytelling.
 
